@@ -13,7 +13,7 @@ const Activation = () => {
  
        useEffect(() => {
          activation(token);    
-        // eslint-disable-next-line
+        // eslint-disable-next-line hello
        }, [])
        
    const history=useHistory()
